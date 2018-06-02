@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">showlib</string>
+    <string name="title_activity_show">Joke from GCE</string>
+</resources>
